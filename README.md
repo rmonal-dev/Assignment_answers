@@ -137,4 +137,3 @@ No server needed — fully client-side.
 
 ---
 
-*Submitted as part of internship assessment. All code is original.*
